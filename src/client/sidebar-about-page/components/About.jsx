@@ -12,7 +12,7 @@ const About = () => (
     <p>
       Visit the Github repo for more information on how to use this project.
     </p>
-    <p>- Elisha Nuchi</p>
+    <p>- Martyn Bedford</p>
     <a
       href="https://www.github.com/enuchi/React-Google-Apps-Script"
       target="_blank"
